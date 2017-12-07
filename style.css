@@ -1,0 +1,5 @@
+
+body{padding: 0; margin: 0; text-align: right;     direction: rtl;}
+.downcounter{direction: ltr; display: block}
+.downcounter-wrapper{text-align: center;}
+img{    max-width: 200px;  display: block;  margin: 0 auto;}
